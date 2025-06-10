@@ -18,6 +18,7 @@
   -->
 
 ![Iceberg](https://iceberg.apache.org/assets/images/Iceberg-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffpj%2Ficeberg.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffpj%2Ficeberg?ref=badge_shield)
 
 [![](https://github.com/apache/iceberg/actions/workflows/java-ci.yml/badge.svg)](https://github.com/apache/iceberg/actions/workflows/java-ci.yml)
 [![Slack](https://img.shields.io/badge/chat-on%20Slack-brightgreen.svg)](https://apache-iceberg.slack.com/)
@@ -26,6 +27,9 @@ Iceberg is a high-performance format for huge analytic tables. Iceberg brings th
 
 Background and documentation is available at <https://iceberg.apache.org>
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffpj%2Ficeberg.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffpj%2Ficeberg?ref=badge_large)
 
 ## Status
 
